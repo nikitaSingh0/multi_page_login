@@ -1,0 +1,68 @@
+.email-verification {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #ed4b72;
+  color: white;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.extra-links div a {
+  color: grey;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.links {
+  color: #ed4b72;
+  text-decoration: none;
+}
+
+
+.content {
+  padding: 20px;
+  text-align: center;
+}
+
+.email-icon {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+.email-address {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #f5f5f5;
+  padding: 20px;
+  text-align: center;
+}
+
+.resend-message {
+  color: #4CAF50;
+}
+
+
+.user-image {
+width: 30px; 
+height: 30px; 
+border-radius: 50%;
+margin-left: 10px;
+}
